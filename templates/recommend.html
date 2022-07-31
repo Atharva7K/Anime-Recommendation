@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<br>
+<br>
+<br>
+{% for i in anime_recs %}
+
+<div class="animecard">
+  <!-- <hr style="height:1px;border-width:1%;color:gray;background-color:white">-->
+
+  <table style="width:65%">
+    <tr>
+      <th style="color:white;" >{{i[0]}}</th>
+    </tr>
+    <tr>
+
+      <td><span class="fa fa-star checked">{{i[1]}} | {{i[2]}}</span></td>
+    </tr>
+  </table>
+</div>
+<br>
+<br>
+
+{% endfor %}
+{% endblock %}

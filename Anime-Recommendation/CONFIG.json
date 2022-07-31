@@ -1,4 +1,0 @@
-{
-	"train_data_path" : "data/raw/anime.csv",  
-	"sqlite_db_path" : "Anime-rec.sqlite"
-}
