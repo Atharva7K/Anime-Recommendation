@@ -9,7 +9,4 @@ Uses [cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity "cosine
 
 ## Demo
 
-
-
 https://user-images.githubusercontent.com/61614635/182098418-132171b9-6464-45d9-a2c3-2c85e2c82cea.mp4
-
